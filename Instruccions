@@ -1,0 +1,10 @@
+
+Here's a brief overview for your GitHub README on creating a bulk SMS sender with unlimited sender IDs in Python for educational purposes:
+
+Bulk SMS Sender with Unlimited Sender IDs
+This project demonstrates how to create a bulk SMS sender with unlimited sender IDs using Python. The purpose is purely educational, illustrating the principles behind sending SMS messages programmatically. Please ensure to comply with all relevant regulations and obtain the necessary permissions before sending SMS messages.
+
+Features
+Bulk SMS Sending: Send messages to multiple recipients.
+Custom Sender IDs: Use unlimited sender IDs for messages.
+Educational Purpose: Demonstrates the core principles of SMS sending.
